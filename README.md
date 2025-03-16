@@ -12,7 +12,7 @@ this is a repo which show how to export huge data into csv file using jobs in la
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/madonnaredakamel/exportUsingJobs.git
 2. Navigate to the project directory:
 
 cd exportUsingJobs
